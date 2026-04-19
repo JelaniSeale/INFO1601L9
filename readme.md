@@ -1,4 +1,4 @@
-# INFO 1601 Lab 7
+
 
 ## Running
 ```
